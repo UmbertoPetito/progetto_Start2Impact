@@ -1,3 +1,3 @@
 # progetto_Start2Impact
-Sito personale
+Sito personale -
 Full Stack Web Developer Junior
